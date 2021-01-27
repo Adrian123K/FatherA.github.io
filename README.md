@@ -1,16 +1,11 @@
-# Latex Jekyll
-![Alt text](./LatexJekyll.png?raw=true "LatexJekyll website")
-## Try it out
-[Try it here](https://unruffled-ardinghelli-55d901.netlify.app)
+# Windows 95 Theme for Jekyll
 
-## Getting started from scratch
-1. Clone  
-```git clone https://github.com/Hammie217/LatexJekyll.git```  
-2. Change directory  
-```cd LatexJekyll```  
-3. Updating bundle to resolve dependecy errors
-```bundle update```
-> Before running `bundle update` command make sure your system meets the [Jekyll Installation Requirements](https://jekyllrb.com/docs/installation/).
-4. Start Jekyll Server  
-```jekyll serve```  
-5. Connect to localhost  
+![ss](https://github.com/h01000110/windows-95/raw/gh-pages/screenshot_2.png)
+
+Homepage: [Windows 95](https://h01000110.github.io/20170917/windows-95)
+
+Demo: [Click here](https://h01000110.github.io/windows-95/)
+
+Author: [h01000110 (hi)](https://github.com/h01000110)
+
+License: [MIT](https://github.com/h01000110/windows-95/blob/master/LICENSE)
